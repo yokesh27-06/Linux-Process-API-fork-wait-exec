@@ -23,39 +23,7 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 
-## C Program to print process ID and parent Process ID using Linux API system calls
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##OUTPUT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## C Program to create new process using Linux API system calls fork() and exit()
+## C Program to create new process using Linux API system calls fork() and exit() and to print process ID and parent Process ID using Linux API system calls
 
 
 
@@ -78,7 +46,7 @@ Test the C Program for the desired output.
 
 
 
-## C Program to execute Linux system commands using Linux API system calls exec() family
+## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
 
 
